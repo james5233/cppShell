@@ -1,0 +1,3 @@
+ls Hi
+ls "ls"
+echo $HOME
