@@ -15,9 +15,9 @@ The default prompt is set to `$ `. To change it just set `PS1` to whatever
 you like.
 
 ## To do
-[ ] Extensive support for job control
-[ ] Support for Line Editing
+- [ ] Extensive support for job control
+- [ ] Support for Line Editing
 
 ## Not going to do
-[ ] The hundreds of features that `bash` supports
+- [ ] The hundreds of features that `bash` supports
 
